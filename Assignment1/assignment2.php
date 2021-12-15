@@ -21,6 +21,8 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand"  href="dashboard.php">PHP Fundamentals of Database System</a>
+                <a href="../app/logout.php" style="  position:relative; left:900px; top:3px; " class="btn btn-info btn-lg">
+                <span class="glyphicon glyphicon-log-out"></span> Log out
             </div>
 
             <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
