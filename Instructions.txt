@@ -7,5 +7,9 @@ Instructions :
 
 3. if u login as user u can only create/ insert information
 	elif u login as admin u can create, update, and delete.
+	
+Login admin Account
+	Username: Admin
+	Password: Codered
 
 end
