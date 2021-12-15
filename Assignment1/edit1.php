@@ -27,7 +27,7 @@
 ?>
 	<script type="text/javascript">
 			alert("Update Successfull.");
-			window.location = "assignment1.php";
+			window.location = "assignment2.php";
 		</script>
  </body>
 </html>

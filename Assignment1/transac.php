@@ -74,7 +74,7 @@
 				?>
     	<script type="text/javascript">
 			alert("Data Saved Successfully");
-			window.location = "assignment1.php";
+			window.location = "2.php";
 		</script>
                     </div>
                 </div>
