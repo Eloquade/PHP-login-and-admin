@@ -1,0 +1,11 @@
+Instructions : 
+
+1. Run The program index.html to proceed
+
+
+2. Login as user or admin if there is no acc go to register
+
+3. if u login as user u can only create/ insert information
+	elif u login as admin u can create, update, and delete.
+
+end
