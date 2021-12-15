@@ -20,7 +20,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand"  href="dashboard.php">PHP Fundamentals of Database System</a>
+                <a class="navbar-brand"  href="dashboard.php">PHP Fundamentals of Database Systems</a>
                 <a href="../app/logout.php" style="  position:relative; left:900px; top:3px; " class="btn btn-info btn-lg">
                 <span class="glyphicon glyphicon-log-out"></span> Log out
             </div>
