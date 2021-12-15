@@ -25,7 +25,7 @@
 ?>
 			<script type="text/javascript">
 				alert("Successfully Deleted.");
-				window.location = "assignment1.php";
+				window.location = "assignment2.php";
 			</script>
 
 			<?php

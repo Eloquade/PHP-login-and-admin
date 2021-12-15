@@ -75,7 +75,7 @@ $query = 'SELECT * FROM people
                   <h2>Detailed Records</h2>
                       <div class="col-lg-6">
 
-                        <form role="form" method="post" action="assignment1.php">
+                        <form role="form" method="post" action="assignment2.php">
 
                             <div class="form-group">
                               <input class="form-control" placeholder="First Name" name="firstname" value="<?php echo $i; ?>">
