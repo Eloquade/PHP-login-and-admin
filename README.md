@@ -14,7 +14,9 @@
 - [x] [Donna Macabugao](https://github.com/Donna127-beep)
 
 
-![image](https://user-images.githubusercontent.com/79312196/141333223-36c284f4-08db-4a7c-99e4-25aa3e9c198d.png)
+![image](https://user-images.githubusercontent.com/79312196/146117966-c0f8d950-028d-49ae-a4cd-bfea0946ad13.png)
+
+![image](https://user-images.githubusercontent.com/79312196/146118010-285b01dc-4b80-420d-92c5-f84c8875d285.png)
 
 ![image](https://user-images.githubusercontent.com/79312196/141333334-19cfcc54-9182-4213-aaf5-7a583ff9ce2f.png)
 
